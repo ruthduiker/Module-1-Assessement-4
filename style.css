@@ -1,0 +1,51 @@
+h1{color:darkslategray; 
+font-family: monospace;
+}
+
+
+p{color:deeppink;
+font-family: cursive;
+}
+
+
+h2{color:dodgerblue;
+}
+
+h3{color:dodgerblue;
+}
+
+ul{list-style-type: lower-latin;
+}
+
+
+
+ol{
+    list-style-type: disc;
+}
+
+
+td{color: darkviolet;
+    font-family: cursive;
+    border-bottom-color: darkorange;
+    background-color: black;
+    border-color: crimson;
+    border-width: thick;
+}
+
+table{
+    font-family:fantasy;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: aquamarine;
+}
+th{font-weight: 400;
+    background-color:#53C3F0;
+    color:white;
+}
+tc{font-size-adjust: 80;
+    font-weight: 900;
+    
+    background-color:#7C8184;
+    color:black;
+    }
